@@ -23,3 +23,8 @@ body{
     background-color:rgb(172, 172, 172);
     color:white;
 }
+.card-body{
+background-color: #1da398;
+color:white;
+margin-top:-25px;
+}
